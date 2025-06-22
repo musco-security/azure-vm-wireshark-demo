@@ -47,7 +47,7 @@ Next, I clicked on virtual machines and then create so we can start the process 
 ![Screenshot 2025-06-09 9 54 16 PM](https://github.com/user-attachments/assets/73da6bf8-5b85-44b7-a834-4ed30f4f4847)
 Choose the subscription and resource group that we created and I chose to name the first virtual machine "windowsvm" and select the same region that we chose for the resource group
 ![Screenshot 2025-06-09 10 05 15 PM](https://github.com/user-attachments/assets/5290f89c-82a7-47a8-85dd-6f7552b28266)
-
+The main thing in this screenshot; we selected the windows 10 Pro image for this vm and selected the available zones
 ![Screenshot 2025-06-09 10 05 26 PM](https://github.com/user-attachments/assets/295e174f-eaa6-4fbe-b739-53df8a76c107)
 
 ![Screenshot 2025-06-09 10 07 04 PM](https://github.com/user-attachments/assets/1e264d51-8549-40b3-8030-bd63d1f0926a)
