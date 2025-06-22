@@ -51,11 +51,9 @@ The main thing in this screenshot; we selected the windows 10 Pro image for this
 ![Screenshot 2025-06-09 10 05 26 PM](https://github.com/user-attachments/assets/295e174f-eaa6-4fbe-b739-53df8a76c107)
 Click next, we chose image default OS disk size, and we chose Premium SSD for local redundant storage
 ![Screenshot 2025-06-09 10 07 04 PM](https://github.com/user-attachments/assets/1e264d51-8549-40b3-8030-bd63d1f0926a)
-
+Here we went to the next tab to set up the networking details. I named the virtual network chose the subnet for this VM, then I chose to allow selected ports for this lab like RDP 3389
 ![Screenshot 2025-06-09 10 22 28 PM](https://github.com/user-attachments/assets/87d7cff2-3b35-4a2f-b90e-92995976a4c2)
-
-![Screenshot 2025-06-09 10 23 01 PM](https://github.com/user-attachments/assets/71ada43a-ef2e-4a2d-8edd-3d7bb66ead61)
-
+After clicking review and create, wait for the validation pass and then click create to submit it for processing which should take a few minutes
 ![Screenshot 2025-06-09 10 24 19 PM](https://github.com/user-attachments/assets/1d95b85c-2107-4817-b333-4572e47f95d2)
 
 ![Screenshot 2025-06-09 10 30 29 PM](https://github.com/user-attachments/assets/75458537-9e04-4ac9-b66b-c22c9cceab8a)
