@@ -42,7 +42,7 @@ Next click on the review and create tab to process the resource group to complet
 ![Screenshot 2025-06-09 9 52 20 PM](https://github.com/user-attachments/assets/6c0b7fa7-da9c-45fa-a4e0-d1ec5092278d)
 After completing the request to have your resource group created, then go back to the resource group tab to make sure it is showing up. If not, just refresh your page to see it
 ![Screenshot 2025-06-09 9 52 53 PM](https://github.com/user-attachments/assets/4ebadcf7-27be-4df5-ac61-2d748fd6cda9)
-
+Next, I clicked on virtual machines and then create so we can start the process for creating our windows virtual machine
 ![Screenshot 2025-06-09 9 54 06 PM](https://github.com/user-attachments/assets/78f3b209-aad7-4766-8037-33671c16e80c)
 
 ![Screenshot 2025-06-09 9 54 16 PM](https://github.com/user-attachments/assets/73da6bf8-5b85-44b7-a834-4ed30f4f4847)
