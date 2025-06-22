@@ -53,6 +53,9 @@ This project demonstrates how to use Microsoft Azure to create and configure two
 ![Screenshot 2025-06-09 10 50 41 PM](https://github.com/user-attachments/assets/e0514027-d1ff-4e1f-adea-e9215fadf978)
 ![Screenshot 2025-06-09 10 52 03 PM](https://github.com/user-attachments/assets/eeac7128-4c0f-4aaf-babe-ddcd4b2f19db)
 ![Screenshot 2025-06-09 11 14 21 PM](https://github.com/user-attachments/assets/173ec526-6b5e-4c62-ba13-cc6ca2b5f5ee)
+![Screenshot 2025-06-09 11 38 25 PM](https://github.com/user-attachments/assets/416554f9-adc1-4bb6-9489-46613fd3c535)
+![Screenshot 2025-06-09 11 42 17 PM](https://github.com/user-attachments/assets/a520ee87-db9b-472d-8b72-99b24b280c73)
+![Screenshot 2025-06-10 12 23 38 AM](https://github.com/user-attachments/assets/f89d6f04-0881-4815-9087-9f406090a308)
 
 
 _Add screenshots of your VM setup and Wireshark captures here._
