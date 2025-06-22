@@ -44,9 +44,8 @@ After completing the request to have your resource group created, then go back t
 ![Screenshot 2025-06-09 9 52 53 PM](https://github.com/user-attachments/assets/4ebadcf7-27be-4df5-ac61-2d748fd6cda9)
 Next, I clicked on virtual machines and then create so we can start the process for creating our windows virtual machine
 ![Screenshot 2025-06-09 9 54 06 PM](https://github.com/user-attachments/assets/78f3b209-aad7-4766-8037-33671c16e80c)
-
 ![Screenshot 2025-06-09 9 54 16 PM](https://github.com/user-attachments/assets/73da6bf8-5b85-44b7-a834-4ed30f4f4847)
-
+Choose the subscription and resource group that we created and I chose to name the first virtual machine "windowsvm" and select the same region that we chose for the resource group
 ![Screenshot 2025-06-09 10 05 15 PM](https://github.com/user-attachments/assets/5290f89c-82a7-47a8-85dd-6f7552b28266)
 
 ![Screenshot 2025-06-09 10 05 26 PM](https://github.com/user-attachments/assets/295e174f-eaa6-4fbe-b739-53df8a76c107)
