@@ -32,6 +32,25 @@ This project demonstrates how to use Microsoft Azure to create and configure two
 6. Capture traffic on the first VM using Wireshark.
 
 ## 📸 Screenshots
+![Screenshot 2025-06-09 9 46 42 PM](https://github.com/user-attachments/assets/405c154a-b484-4272-a629-d2aaf3cb86f6)
+![Screenshot 2025-06-09 9 46 48 PM](https://github.com/user-attachments/assets/bfee635f-eb04-4673-bb60-8c772b261fa6)
+![Screenshot 2025-06-09 9 50 08 PM](https://github.com/user-attachments/assets/1f22208c-7611-4e5b-adbd-40addf2d974a)
+![Screenshot 2025-06-09 9 51 42 PM](https://github.com/user-attachments/assets/86f86388-0a6c-4818-860f-80ddbd4b5c10)
+![Screenshot 2025-06-09 9 52 20 PM](https://github.com/user-attachments/assets/6c0b7fa7-da9c-45fa-a4e0-d1ec5092278d)
+![Screenshot 2025-06-09 9 52 53 PM](https://github.com/user-attachments/assets/4ebadcf7-27be-4df5-ac61-2d748fd6cda9)
+![Screenshot 2025-06-09 9 54 06 PM](https://github.com/user-attachments/assets/78f3b209-aad7-4766-8037-33671c16e80c)
+![Screenshot 2025-06-09 9 54 16 PM](https://github.com/user-attachments/assets/73da6bf8-5b85-44b7-a834-4ed30f4f4847)
+![Screenshot 2025-06-09 10 05 15 PM](https://github.com/user-attachments/assets/5290f89c-82a7-47a8-85dd-6f7552b28266)
+![Screenshot 2025-06-09 10 05 26 PM](https://github.com/user-attachments/assets/295e174f-eaa6-4fbe-b739-53df8a76c107)
+![Screenshot 2025-06-09 10 07 04 PM](https://github.com/user-attachments/assets/1e264d51-8549-40b3-8030-bd63d1f0926a)
+![Screenshot 2025-06-09 10 22 28 PM](https://github.com/user-attachments/assets/87d7cff2-3b35-4a2f-b90e-92995976a4c2)
+![Screenshot 2025-06-09 10 23 01 PM](https://github.com/user-attachments/assets/71ada43a-ef2e-4a2d-8edd-3d7bb66ead61)
+![Screenshot 2025-06-09 10 24 19 PM](https://github.com/user-attachments/assets/1d95b85c-2107-4817-b333-4572e47f95d2)
+![Screenshot 2025-06-09 10 30 29 PM](https://github.com/user-attachments/assets/75458537-9e04-4ac9-b66b-c22c9cceab8a)
+![Screenshot 2025-06-09 10 30 33 PM](https://github.com/user-attachments/assets/87764d40-54df-4f7c-9ef8-dedf2722233c)
+![Screenshot 2025-06-09 10 47 26 PM](https://github.com/user-attachments/assets/3d861778-1598-466e-9553-82bca8425d82)
+![Screenshot 2025-06-09 10 50 00 PM](https://github.com/user-attachments/assets/53001b94-062d-4602-9c76-bd92ac06cc35)
+
 
 _Add screenshots of your VM setup and Wireshark captures here._
 
