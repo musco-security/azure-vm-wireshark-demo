@@ -37,7 +37,6 @@ Create an account with Microsoft Azure and choose a subscription to get to the h
 Next we need to create a resource group to create our virtual machines in 
 ![Screenshot 2025-06-09 9 46 48 PM](https://github.com/user-attachments/assets/bfee635f-eb04-4673-bb60-8c772b261fa6)
 
-![Screenshot 2025-06-09 9 50 08 PM](https://github.com/user-attachments/assets/1f22208c-7611-4e5b-adbd-40addf2d974a)
 ![Screenshot 2025-06-09 9 51 42 PM](https://github.com/user-attachments/assets/86f86388-0a6c-4818-860f-80ddbd4b5c10)
 ![Screenshot 2025-06-09 9 52 20 PM](https://github.com/user-attachments/assets/6c0b7fa7-da9c-45fa-a4e0-d1ec5092278d)
 ![Screenshot 2025-06-09 9 52 53 PM](https://github.com/user-attachments/assets/4ebadcf7-27be-4df5-ac61-2d748fd6cda9)
