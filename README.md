@@ -33,7 +33,9 @@ This project demonstrates how to use Microsoft Azure to create and configure two
 
 ## 📸 Screenshots
 ![Screenshot 2025-06-09 9 46 42 PM](https://github.com/user-attachments/assets/405c154a-b484-4272-a629-d2aaf3cb86f6)
+Create an account with Microsoft Azure and choose a subscription to get to the home page of Azure
 ![Screenshot 2025-06-09 9 46 48 PM](https://github.com/user-attachments/assets/bfee635f-eb04-4673-bb60-8c772b261fa6)
+
 ![Screenshot 2025-06-09 9 50 08 PM](https://github.com/user-attachments/assets/1f22208c-7611-4e5b-adbd-40addf2d974a)
 ![Screenshot 2025-06-09 9 51 42 PM](https://github.com/user-attachments/assets/86f86388-0a6c-4818-860f-80ddbd4b5c10)
 ![Screenshot 2025-06-09 9 52 20 PM](https://github.com/user-attachments/assets/6c0b7fa7-da9c-45fa-a4e0-d1ec5092278d)
