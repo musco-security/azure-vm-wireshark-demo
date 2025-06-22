@@ -36,7 +36,7 @@ Create an account with Microsoft Azure and choose a subscription to get to the h
 ![Screenshot 2025-06-09 9 46 42 PM](https://github.com/user-attachments/assets/405c154a-b484-4272-a629-d2aaf3cb86f6)
 Next we need to create a resource group to create our virtual machines in 
 ![Screenshot 2025-06-09 9 46 48 PM](https://github.com/user-attachments/assets/bfee635f-eb04-4673-bb60-8c772b261fa6)
-Click the resource group link, and type in what the name you want to call the resource group and what subscription you're attaching it to, and lastly the 
+Click the resource group link, and type in what the name you want to call the resource group and what subscription you're attaching it to, and lastly the region that you want to store it in
 ![Screenshot 2025-06-09 9 51 42 PM](https://github.com/user-attachments/assets/86f86388-0a6c-4818-860f-80ddbd4b5c10)
 ![Screenshot 2025-06-09 9 52 20 PM](https://github.com/user-attachments/assets/6c0b7fa7-da9c-45fa-a4e0-d1ec5092278d)
 ![Screenshot 2025-06-09 9 52 53 PM](https://github.com/user-attachments/assets/4ebadcf7-27be-4df5-ac61-2d748fd6cda9)
