@@ -32,8 +32,9 @@ This project demonstrates how to use Microsoft Azure to create and configure two
 6. Capture traffic on the first VM using Wireshark.
 
 ## 📸 Screenshots
-![Screenshot 2025-06-09 9 46 42 PM](https://github.com/user-attachments/assets/405c154a-b484-4272-a629-d2aaf3cb86f6)
 Create an account with Microsoft Azure and choose a subscription to get to the home page of Azure
+![Screenshot 2025-06-09 9 46 42 PM](https://github.com/user-attachments/assets/405c154a-b484-4272-a629-d2aaf3cb86f6)
+Next we need to create a resource group to create our virtual machines in 
 ![Screenshot 2025-06-09 9 46 48 PM](https://github.com/user-attachments/assets/bfee635f-eb04-4673-bb60-8c772b261fa6)
 
 ![Screenshot 2025-06-09 9 50 08 PM](https://github.com/user-attachments/assets/1f22208c-7611-4e5b-adbd-40addf2d974a)
