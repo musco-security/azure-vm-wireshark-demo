@@ -55,7 +55,7 @@ Here we went to the next tab to set up the networking details. I named the virtu
 ![Screenshot 2025-06-09 10 22 28 PM](https://github.com/user-attachments/assets/87d7cff2-3b35-4a2f-b90e-92995976a4c2)
 After clicking review and create, wait for the validation pass and then click create to submit it for processing which should take a few minutes
 ![Screenshot 2025-06-09 10 24 19 PM](https://github.com/user-attachments/assets/1d95b85c-2107-4817-b333-4572e47f95d2)
-
+I created a budget to keep track of the expense that the resource group grows monthly throughout the next two years
 ![Screenshot 2025-06-09 10 30 29 PM](https://github.com/user-attachments/assets/75458537-9e04-4ac9-b66b-c22c9cceab8a)
 
 ![Screenshot 2025-06-09 10 30 33 PM](https://github.com/user-attachments/assets/87764d40-54df-4f7c-9ef8-dedf2722233c)
