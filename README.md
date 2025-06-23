@@ -67,7 +67,7 @@ I created this new vm under the same subscription, resource group and region tha
 ![Screenshot 2025-06-09 10 52 03 PM](https://github.com/user-attachments/assets/eeac7128-4c0f-4aaf-babe-ddcd4b2f19db)
 I chose to make the vm image an ubuntu OS
 ![Screenshot 2025-06-09 11 14 21 PM](https://github.com/user-attachments/assets/173ec526-6b5e-4c62-ba13-cc6ca2b5f5ee)
-
+Next, I created this vm in the same virtual network and subnet as my first vm
 ![Screenshot 2025-06-09 11 38 25 PM](https://github.com/user-attachments/assets/416554f9-adc1-4bb6-9489-46613fd3c535)
 
 ![Screenshot 2025-06-09 11 42 17 PM](https://github.com/user-attachments/assets/a520ee87-db9b-472d-8b72-99b24b280c73)
