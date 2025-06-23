@@ -58,8 +58,6 @@ After clicking review and create, wait for the validation pass and then click cr
 I created a budget to keep track of the expense that the resource group grows monthly throughout the next two years
 ![Screenshot 2025-06-09 10 30 29 PM](https://github.com/user-attachments/assets/75458537-9e04-4ac9-b66b-c22c9cceab8a)
 
-![Screenshot 2025-06-09 10 30 33 PM](https://github.com/user-attachments/assets/87764d40-54df-4f7c-9ef8-dedf2722233c)
-
 ![Screenshot 2025-06-09 10 47 26 PM](https://github.com/user-attachments/assets/3d861778-1598-466e-9553-82bca8425d82)
 
 ![Screenshot 2025-06-09 10 50 00 PM](https://github.com/user-attachments/assets/53001b94-062d-4602-9c76-bd92ac06cc35)
