@@ -59,7 +59,7 @@ I created a budget to keep track of the expense that the resource group grows mo
 ![Screenshot 2025-06-09 10 30 29 PM](https://github.com/user-attachments/assets/75458537-9e04-4ac9-b66b-c22c9cceab8a)
 After making budget, I clicked review and create to process the creation of the windows vm
 ![Screenshot 2025-06-09 10 47 26 PM](https://github.com/user-attachments/assets/3d861778-1598-466e-9553-82bca8425d82)
-
+Our Windows vm shows in the vitrual machine list
 ![Screenshot 2025-06-09 10 50 00 PM](https://github.com/user-attachments/assets/53001b94-062d-4602-9c76-bd92ac06cc35)
 
 ![Screenshot 2025-06-09 10 50 41 PM](https://github.com/user-attachments/assets/e0514027-d1ff-4e1f-adea-e9215fadf978)
