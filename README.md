@@ -71,7 +71,7 @@ Next, I created this vm in the same virtual network and subnet as my first vm
 ![Screenshot 2025-06-09 11 38 25 PM](https://github.com/user-attachments/assets/416554f9-adc1-4bb6-9489-46613fd3c535)
 After clicking review and create the VM, I went back to the virtual machines tab to see that my Linux vm was created
 ![Screenshot 2025-06-09 11 42 17 PM](https://github.com/user-attachments/assets/a520ee87-db9b-472d-8b72-99b24b280c73)
-
+From the virtual machine screen, I clicked on the WindowsVM to start it and begin the download of wireshark on this vm and start monitoring the network traffic wireshark picks up between both VMs 
 ![Screenshot 2025-06-10 12 23 38 AM](https://github.com/user-attachments/assets/f89d6f04-0881-4815-9087-9f406090a308)
 
 
