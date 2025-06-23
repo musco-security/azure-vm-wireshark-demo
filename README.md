@@ -65,7 +65,7 @@ creating a second vm to monitor traffic between both virtual machines
 ![Screenshot 2025-06-09 10 50 41 PM](https://github.com/user-attachments/assets/e0514027-d1ff-4e1f-adea-e9215fadf978)
 I created this new vm under the same subscription, resource group and region that I created the first vm
 ![Screenshot 2025-06-09 10 52 03 PM](https://github.com/user-attachments/assets/eeac7128-4c0f-4aaf-babe-ddcd4b2f19db)
-
+I chose to make the vm image an ubuntu OS
 ![Screenshot 2025-06-09 11 14 21 PM](https://github.com/user-attachments/assets/173ec526-6b5e-4c62-ba13-cc6ca2b5f5ee)
 
 ![Screenshot 2025-06-09 11 38 25 PM](https://github.com/user-attachments/assets/416554f9-adc1-4bb6-9489-46613fd3c535)
