@@ -73,6 +73,16 @@ After clicking review and create the VM, I went back to the virtual machines tab
 ![Screenshot 2025-06-09 11 42 17 PM](https://github.com/user-attachments/assets/a520ee87-db9b-472d-8b72-99b24b280c73)
 From the virtual machine screen, I clicked on the WindowsVM to start it and begin the download of wireshark on this vm and start monitoring the network traffic wireshark picks up between both VMs 
 ![Screenshot 2025-06-10 12 23 38 AM](https://github.com/user-attachments/assets/f89d6f04-0881-4815-9087-9f406090a308)
+![Screenshot 2025-06-23 8 32 29 PM](https://github.com/user-attachments/assets/6c339787-c592-46d3-82e2-b98b83b90df6)
+![Screenshot 2025-06-23 8 46 34 PM](https://github.com/user-attachments/assets/a0d71a25-5453-4051-9d11-cb89dcb47767)
+![Screenshot 2025-06-23 9 06 27 PM](https://github.com/user-attachments/assets/59ad08f7-ecdd-4563-a961-01ba2a9277b5)
+![Screenshot 2025-06-23 9 09 41 PM](https://github.com/user-attachments/assets/a8f4f72a-489b-4764-851e-aaf4a9759d00)
+![Screenshot 2025-06-24 8 24 42 PM](https://github.com/user-attachments/assets/5ca1990a-b3e1-4f4c-960f-b7bebd41b83f)
+
+
+
+
+
 
 
 _Add screenshots of your VM setup and Wireshark captures here._
