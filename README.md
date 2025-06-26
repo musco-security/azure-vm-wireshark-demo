@@ -77,7 +77,7 @@ From the virtual machine screen, I clicked on the WindowsVM to start it and begi
 ![Screenshot 2025-06-23 8 46 34 PM](https://github.com/user-attachments/assets/a0d71a25-5453-4051-9d11-cb89dcb47767)
 ![Screenshot 2025-06-23 9 06 27 PM](https://github.com/user-attachments/assets/59ad08f7-ecdd-4563-a961-01ba2a9277b5)
 ![Screenshot 2025-06-23 9 09 41 PM](https://github.com/user-attachments/assets/a8f4f72a-489b-4764-851e-aaf4a9759d00)
-![Screenshot 2025-06-24 8 24 42 PM](https://github.com/user-attachments/assets/5ca1990a-b3e1-4f4c-960f-b7bebd41b83f)
+
 
 
 
