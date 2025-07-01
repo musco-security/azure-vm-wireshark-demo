@@ -99,7 +99,6 @@ Used nslookup command to look up ip address for pixar website
 ![Screenshot 2025-06-24 11 23 06 PM](https://github.com/user-attachments/assets/836d2dba-ada5-4450-96b6-cb35bd11eb30)
 
 
-_Add screenshots of your VM setup and Wireshark captures here._
 
 ## 🧠 Notes
 
