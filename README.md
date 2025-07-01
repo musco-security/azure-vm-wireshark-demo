@@ -75,7 +75,7 @@ From the virtual machine screen, I clicked on the WindowsVM to start it and begi
 ![Screenshot 2025-06-10 12 23 38 AM](https://github.com/user-attachments/assets/f89d6f04-0881-4815-9087-9f406090a308)
 I used both remote desktop app and bastion inside of Azure to remote login to the VMs
 ![Screenshot 2025-06-23 8 32 29 PM](https://github.com/user-attachments/assets/6c339787-c592-46d3-82e2-b98b83b90df6)
-
+After logging into Wireshark, I clicked on the ethernet option because traffic was being picked up so I chose that option to start
 ![Screenshot 2025-06-23 8 46 34 PM](https://github.com/user-attachments/assets/a0d71a25-5453-4051-9d11-cb89dcb47767)
 
 ![Screenshot 2025-06-23 9 06 27 PM](https://github.com/user-attachments/assets/59ad08f7-ecdd-4563-a961-01ba2a9277b5)
