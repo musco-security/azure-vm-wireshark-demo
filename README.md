@@ -87,7 +87,7 @@ From the virtual machine screen, I clicked on the WindowsVM to start it and begi
 ![Screenshot 2025-06-24 8 32 13 PM](https://github.com/user-attachments/assets/4782b755-6888-4f1d-b6c1-7040af97ae9b)
 
 ![Screenshot 2025-06-24 10 04 30 PM](https://github.com/user-attachments/assets/585f8ccd-b5c5-4b85-b737-286079eb40ab)
-
+I used the ssh command to connect to my other vm and monitored the traffic 
 ![Screenshot 2025-06-24 10 12 20 PM](https://github.com/user-attachments/assets/058e2be0-7db2-4191-a72c-c91bf23a1c72)
 
 ![Screenshot 2025-06-24 10 26 32 PM](https://github.com/user-attachments/assets/170f2589-ba0e-43e6-9e1a-cec25629f0bc)
