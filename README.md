@@ -77,7 +77,7 @@ I used both remote desktop app and bastion inside of Azure to remote login to th
 ![Screenshot 2025-06-23 8 32 29 PM](https://github.com/user-attachments/assets/6c339787-c592-46d3-82e2-b98b83b90df6)
 After logging into Wireshark, I clicked on the ethernet option because traffic was being picked up so I chose that option to start
 ![Screenshot 2025-06-23 8 46 34 PM](https://github.com/user-attachments/assets/a0d71a25-5453-4051-9d11-cb89dcb47767)
-
+I opened powershell app to start with commands
 ![Screenshot 2025-06-23 9 06 27 PM](https://github.com/user-attachments/assets/59ad08f7-ecdd-4563-a961-01ba2a9277b5)
 
 ![Screenshot 2025-06-23 9 09 41 PM](https://github.com/user-attachments/assets/a8f4f72a-489b-4764-851e-aaf4a9759d00)
