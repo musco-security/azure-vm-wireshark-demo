@@ -91,7 +91,7 @@ I used the ssh command to connect to my other vm and monitored the traffic
 ![Screenshot 2025-06-24 10 12 20 PM](https://github.com/user-attachments/assets/058e2be0-7db2-4191-a72c-c91bf23a1c72)
 From Wireshark I have selected to listen for icmp traffic and I started a ping command 
 ![Screenshot 2025-06-24 10 26 32 PM](https://github.com/user-attachments/assets/170f2589-ba0e-43e6-9e1a-cec25629f0bc)
-
+From Wireshark I selected to listen for dhcp traffic, and started a ipconfig /renew command 
 ![Screenshot 2025-06-24 10 46 59 PM](https://github.com/user-attachments/assets/113851a3-7876-4899-98c3-c21fad2da5d1)
 I monitored the traffic when I used the nslookup command to find the ip address of disney.com
 ![Screenshot 2025-06-24 11 20 12 PM](https://github.com/user-attachments/assets/dfedee5b-ebd9-4c26-a157-c5ac56d123a5)
