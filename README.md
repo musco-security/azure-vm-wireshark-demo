@@ -14,7 +14,7 @@ This project demonstrates how to use Microsoft Azure to create and configure two
 - Microsoft Azure (Virtual Machines, Resource Groups, Network Security Groups)
 - Remote Desktop Protocol (RDP)
 - Wireshark
-- Windows Server or Ubuntu (depending on your VM OS choice)
+- Windows Server or Ubuntu 
 
 ## ✅ Learning Objectives
 
